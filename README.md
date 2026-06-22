@@ -78,8 +78,8 @@ print(f"QR Code saved as {file_name}.png")
 Add your screenshots inside the project folder and reference them:
 
 ```md
-![QR Code Generator](assets/screenshot1.png)
-![Generated QR Code Linkedin](assets/screenshot2.png)
+[QR Code Generator](assets/screenshot1.png)
+[Generated QR Code Linkedin](assets/screenshot2.png)
 ```
 
 ## Future Enhancements
